@@ -1,1 +1,2 @@
 # BloodMagicCommandFix
+Use /bloodmagicx instead
